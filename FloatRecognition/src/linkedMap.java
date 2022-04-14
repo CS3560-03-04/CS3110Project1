@@ -1,4 +1,5 @@
 
+//CS3110 project1
 public class linkedMap {
 	String inputString;
 	Node headNode;
